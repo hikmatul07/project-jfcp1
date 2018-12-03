@@ -3,6 +3,8 @@ public class Hello {
 	
 		System.out.println("Hello Maulida bali!");
 		
+		System.out.println("Sudah Makan Belum?");
+		
 	}
 	
 }
